@@ -20,7 +20,7 @@ I'm ready to handle any product development combining extensive and I'm up to da
 - Authentication: Oauth, Oauth2, 2FA, Hawk, AWS Signature
 
 ## *Contact me anytime*
-<a href="https://discord.gg/xWV47ZfB"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
+<a href="https://discord.com/users/1174437005627772968"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206200626-9999d426-91e8-4050-9430-93c72c21b633.png"></a>
 <a href="https://t.me/lodestar_0905"><img  width="60" src="https://user-images.githubusercontent.com/86986628/206201210-59b207ec-a55a-4a37-aef6-6e3b3bddd05d.png"></a>
 <a href="https://join.skype.com/invite/q7dp1qhUd0Qr"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201252-92cf14da-d391-443b-bdb7-9639f24259d9.png"></a>
 <a href="mailto:lodestar0905@gmail.com"><img width="60" src="https://user-images.githubusercontent.com/86986628/206201266-c519b0d4-d953-45c0-b9ec-253d639c828a.png"></a>
